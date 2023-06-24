@@ -9,7 +9,10 @@ I want to get ISTQB certification in the future.
 
 ### Languages: &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=%23535bf5)
 
-### Development tools: &nbsp; ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat&logo=selenium&logoColor=%2319CE49), &nbsp; ![Playwright](https://img.shields.io/badge/Playwright-black?style=flat&logo=playwright&logoColor=%2319CE49), &nbsp; ![JMeter](https://img.shields.io/badge/JMeter-black?style=flat&logo=apache&logoColor=%23F37B68)
+### Development tools: 
+&nbsp; ![Selenium](https://img.shields.io/badge/Selenium-black?style=flat&logo=selenium&logoColor=%2319CE49)
+&nbsp; ![Playwright](https://img.shields.io/badge/Playwright-black?style=flat&logo=playwright&logoColor=%2319CE49) 
+&nbsp; ![JMeter](https://img.shields.io/badge/JMeter-black?style=flat&logo=apache&logoColor=%23F37B68)
 
 <!--Here are some ideas to get you started:
 
