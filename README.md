@@ -7,8 +7,8 @@ I want to get ISTQB certification in the future.
 
 ##⚒️ &nbsp; Tools that I use:
 
-#_Languages
-  _&nbsp; ![C++] (https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=%23535bf5)
+_Languages
+  _C++
 
 <!--Here are some ideas to get you started:
 
