@@ -7,8 +7,8 @@ I want to get ISTQB certification in the future.
 
 ##⚒️ &nbsp; Tools that I use:
 
-_Languages
-  _C++
+1. Languages
+  - C++
 
 <!--Here are some ideas to get you started:
 
