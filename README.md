@@ -5,10 +5,10 @@ To develop my testing skills 💪 I read literature on testing, I do test projec
 I am learning JAVA language to run automated tests. I finished the course for novice testers organised by testerzy.pl company. 
 I want to get ISTQB certification in the future.
 
-⚒️ ##Tools that I use:
+##⚒️ &nbsp; Tools that I use:
 
-_Languages
-  _&ndsb; ![C++] (https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=%23535bf5)
+#_Languages
+  _&nbsp; ![C++] (https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=%23535bf5)
 
 <!--Here are some ideas to get you started:
 
