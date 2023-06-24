@@ -8,7 +8,7 @@ I want to get ISTQB certification in the future.
 ##⚒️ &nbsp; Tools that I use:
 
 1. Languages
-  - C++
+  - &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=%23535bf5)
 
 <!--Here are some ideas to get you started:
 
