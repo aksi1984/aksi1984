@@ -19,7 +19,6 @@ I want to get ISTQB certification in the future.
 ### Development tools: &nbsp; 
 ![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%2300cc00)  ![Playwright](https://img.shields.io/badge/Playwright-%230A1A2F?style=flat&logo=Playwright&logoColor=%2345ba4b)  ![JMeter](https://img.shields.io/badge/JMeter-%230A1A2F?style=flat&logo=apache&logoColor=%23F37B68)  ![Postman](https://img.shields.io/badge/Postman-%230A1A2F?style=flat&logo=Postman&logoColor=%23f26b3a) 
 
-![Testlink] (https://img.shields.io/badge/Testlink-%230A1A2F?style=flat&logo=Testlink&logoColor=%236875CD)
 
 
 <!--Here are some ideas to get you started:
