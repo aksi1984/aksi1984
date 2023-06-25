@@ -11,7 +11,7 @@ I want to get ISTQB certification in the future.
 ![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=%23535bf5) ![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=JAVA&logoColor=%236875CD) ![TypeScript](https://img.shields.io/badge/TypeScript-%230A1A2F?style=flat&logo=TypeScript&logoColor=%236875CD)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%230A1A2F?style=flat&logo=MySQL&logoColor=%23005e87
+![MySQL](https://img.shields.io/badge/MySQL-%230A1A2F?style=flat&logo=MySQL&logoColor=%23005e87)
 
 ### Operating systems
 ![Windows](https://img.shields.io/badge/Windows-%230A1A2F?style=flat&logo=Windows&logoColor=%236875CD)
