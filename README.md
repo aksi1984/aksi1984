@@ -17,7 +17,8 @@ I want to get ISTQB certification in the future.
 ![Windows](https://img.shields.io/badge/Windows-%230A1A2F?style=flat&logo=Windows&logoColor=%236875CD)
 
 
-![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%2300cc00)  ![Playwright](https://img.shields.io/badge/Playwright-%230A1A2F?style=flat&logo=Playwright&logoColor=%2345ba4b)  ![JMeter](https://img.shields.io/badge/JMeter-%230A1A2F?style=flat&logo=apache&logoColor=%23F37B68)  ![Postman](https://img.shields.io/badge/Postman-%230A1A2F?style=flat&logo=Postman&logoColor=%23f26b3a) 
+![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%2300cc00)  ![Playwright](https://img.shields.io/badge/Playwright-%230A1A2F?style=flat&logo=Playwright&logoColor=%2345ba4b) ![Webdriver](https://img.shields.io/badge/Webdriver-%230A1A2F?style=flat&logo=Webdriver
+)  ![JMeter](https://img.shields.io/badge/JMeter-%230A1A2F?style=flat&logo=apache&logoColor=%23F37B68)  ![Postman](https://img.shields.io/badge/Postman-%230A1A2F?style=flat&logo=Postman&logoColor=%23f26b3a) 
 
 ![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb) 
 
