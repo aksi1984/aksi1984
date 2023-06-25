@@ -23,6 +23,9 @@ I want to get ISTQB certification in the future.
 
 ![Testlink](https://img.shields.io/badge/Testlink-%230A1A2F?style=flat&logo=Testlink&logoColor=%236875CD) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%236875CD)
 
+![GitHub](https://img.shields.io/badge/GitHub-%230A1A2F?style=flat&logo=GitHub
+)
+
 ![Scrrenshot Captor](https://img.shields.io/badge/Screenshot%20Captor-%230A1A2F?style=flat&logo=IJ&logoColor=%230a76ef) ![Bug Magnet](https://img.shields.io/badge/Bug%20Magnet-%230A1A2F?style=flat&logo=IJ&logoColor=%230a76ef)
 
 
