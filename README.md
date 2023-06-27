@@ -9,8 +9,17 @@ I want to get ISTQB certification in the future.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-239120?style=for-the-badge&logo=typescript&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C%2B%2B-%230A1A2F?style=flat&logo=C%2B%2B&logoColor=%23535bf5) ![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=JAVA&logoColor=%236875CD) ![TypeScript](https://img.shields.io/badge/TypeScript-%230A1A2F?style=flat&logo=TypeScript&logoColor=%236875CD)
 
+![Selenium](https://img.shields.io/badge/Selenium-239120?style=for-the-badge&logo=Selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-239120?style=for-the-badge&logo=Playwright&logoColor=white) ![Webdriver](https://img.shields.io/badge/Webdriver-%230A1A2F?style=for-the-badge&logo=Selenium&logoColor=white)
+
+![JMeter](https://img.shields.io/badge/JMeter-14354C?style=for-the-badge&Apache&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-14354C?style=for-the-badge&logo=Postman&logoColor=%23f26b3a)
+
+![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-35495E?style=for-the-badge&logo=Visual%20Studio&logoColor=4FC08D)
+
+![Testlink](https://img.shields.io/badge/TESTLINK-35495E?style=for-the-badge&logo=testlink&logoColor=4FC08D) ![Quase](https://img.shields.io/badge/QUASE?style=for-the-badge&logo=Quase&logoColor=4FC08D)
 
 ![MySQL](https://img.shields.io/badge/MySQL-%230A1A2F?style=flat&logo=MySQL&logoColor=%23005e87)
 
