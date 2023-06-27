@@ -31,7 +31,8 @@ I want to get ISTQB certification in the future.
 
 <img src="https://icongr.am/devicon/cplusplus-original.svg?size=40&color=2244aa"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=2042a7"/>
 
-<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=2042a7"/>
+<img src="https://icongr.am/devicon/mysql-original.svg?size=40&color=2042a7"/>
+<img src="https://icongr.am/devicon/mysql-original.svg?size=40&color=2042a7"/>
 
 <!--Here are some ideas to get you started:
 
