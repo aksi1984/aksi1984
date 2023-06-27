@@ -32,5 +32,4 @@ I want to get ISTQB certification in the future.
 
 ### 🔥 My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aksi1984&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aksi1984&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
