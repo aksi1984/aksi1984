@@ -7,7 +7,7 @@ I want to get ISTQB certification in the future.
 
 ## Tools that I use:
 
-![C++](https://img.shields.io/badge/C%2B%2B-%230A1A2F?style=for-the-badge&logo=c%2B%2B&logoColor=%23535bf5) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-239120?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%230A1A2F?style=for-the-badge&logo=c%2B%2B&logoColor=%23535bf5) ![JAVA](https://img.shields.io/badge/JAVA-%230A1A2F?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![TypeScript](https://img.shields.io/badge/typescript-239120?style=for-the-badge&logo=typescript&logoColor=%236875CD)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
