@@ -30,7 +30,7 @@ I want to get ISTQB certification in the future.
 ![Scrrenshot Captor](https://img.shields.io/badge/Screenshot%20Captor-%230A1A2F?style=flat&logo=IJ&logoColor=%230a76ef) ![Bug Magnet](https://img.shields.io/badge/Bug%20Magnet-%230A1A2F?style=flat&logo=IJ&logoColor=%230a76ef)
 
 <img src="https://icongr.am/devicon/cplusplus-original.svg?size=40&color=2244aa"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://icongr.am/devicon/typescript-original.svg?size=40&color=2042a7"/>
-<img scr="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=2042a7"/>
+<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=2042a7"/>
 
 <!--Here are some ideas to get you started:
 
