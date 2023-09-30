@@ -20,7 +20,7 @@ I want to get ISTQB certification in the future.
 
 ![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb) 
 
-![Testlink](https://img.shields.io/badge/Testlink-%230A1A2F?style=flat&logo=Testlink&logoColor=%236875CD) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%236875CD)  ![Cucumber](https://img.shields.io/badge/Cucumber-%230A1A2F?style=flat?logo=Cucumber&color=%230A1A2F?
+![Testlink](https://img.shields.io/badge/Testlink-%230A1A2F?style=flat&logo=Testlink&logoColor=%236875CD) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%236875CD)  ![Cucumber](https://img.shields.io/badge/Cucumber-%230A1A2F?style=flat?logo=Cucumber&logoColor=%230A1A2F?
 )
 
 ![GitHub](https://img.shields.io/badge/GitHub-%230A1A2F?style=flat&logo=GitHub
